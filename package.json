@@ -1,0 +1,24 @@
+{
+  "name": "dmsmongoose",
+  "version": "1.0.0",
+  "description": "",
+  "main": "schema.js",
+  "scripts": {
+    "test": "jasmine-node documentManagerSpec.js --forceexit --verbose",
+    "start": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andela-oolarewaju/dms-mongoose.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andela-oolarewaju/dms-mongoose/issues"
+  },
+  "homepage": "https://github.com/andela-oolarewaju/dms-mongoose#readme",
+  "dependencies": {
+    "jasmine-node": "^1.14.5",
+    "mongoose": "^4.1.10"
+  }
+}
